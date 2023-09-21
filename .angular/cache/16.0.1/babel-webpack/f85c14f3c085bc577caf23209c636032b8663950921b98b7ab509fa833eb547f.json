@@ -1,0 +1,1 @@
+{"ast":null,"code":"var Recipe = /** @class */function () {\n  function Recipe() {}\n  return Recipe;\n}();\nexport { Recipe };\n{}\nconstructor(name, string, description, string, imagePath, string);\n{\n  this.name = name;\n  this.description = description;\n  this.imagePath = imagePath;\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
